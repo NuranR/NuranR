@@ -1,5 +1,5 @@
 # 👋 About Me:
-I'm a CompE undergrad passionate about **Data Engineering**, **Machine Learning**, and **Computer Vision**.
+I'm a CompE graduate passionate about **Software Engineering**, **Machine Learning**, and **AI**.
 
 ### 🌐 Connect with Me
 <p>
